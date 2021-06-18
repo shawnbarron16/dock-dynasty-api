@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ruben Barron",
+            "email": "RubenLBarron@boating.com"
+        },
+        {
+            "id": 2,
+            "name": "Brooke Barron",
+            "email": "PrettyPrincess3@boating.com"
+        }
+    ],
+    "boats": [
+        {
+            "id": 1,
+            "owner": 1,
+            "pictureURL": "https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/c597dd17-1bbe-4496-9032-c81bf1e23d5e",
+            "description": "Wooden and Strong like mother Russia!",
+            "reviews": 1
+        }
+    ],
+    "boatListing": [
+        {
+            "id": 1,
+            "boatId": 1,
+            "renterId": 2,
+            "price": 500,
+            "dateListed": "05/16/2020"
+        }
+    ]
+}

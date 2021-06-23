@@ -18,6 +18,12 @@
             "pictureURL": "https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/c597dd17-1bbe-4496-9032-c81bf1e23d5e",
             "description": "Wooden and Strong like mother Russia!",
             "reviews": 1
+        },
+        {
+            "id": 2, 
+            "owner": 2,
+            "pictureURL": "https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/c597dd17-1bbe-4496-9032-c81bf1e23d5e",
+            "description": "2"
         }
     ],
     "boatListing": [
@@ -27,6 +33,13 @@
             "renterId": 2,
             "price": 500,
             "dateListed": "05/16/2020"
+        },
+        {
+            "id": 2,
+            "boatId": 2,
+            "renterId": 1,
+            "price": 1000,
+            "dateListed": "03/21/21"
         }
     ]
 }
